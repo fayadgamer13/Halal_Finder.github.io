@@ -6,14 +6,16 @@
 }
 
 body {
-    height: 100vh;
+    min-height: 100vh; /* Change height to min-height */
     display: flex;
+    flex-direction: column; /* Ensure layout remains vertical */
     justify-content: center;
     align-items: center;
     background: url('background.png') no-repeat center center fixed;
     background-size: cover;
     color: white;
     text-align: center;
+    padding: 40px 20px; /* Keeps your padding */
 }
 
 /* Darkens the background image so text stays legible */
