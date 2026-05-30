@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     downloadBtn.addEventListener('click', () => {
         // Replace with your actual APK download link
-        const apkUrl = 'https://github.com/fayadgamer13/Halal_Finder/releases/download/1.0.2/app_debug.apk';
+        const apkUrl = 'https://github.com/fayadgamer13/Halal_Finder/releases/download/1.3.0/app-latest.apk';
         
         // Simple feedback for the user
         console.log("Starting download...");
