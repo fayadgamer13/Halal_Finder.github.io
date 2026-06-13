@@ -1,6 +1,6 @@
 {
-  "name": "Halal Finder Installer",
-  "short_name": "Halal Finder",
+  "name": "East HalalScan Installer",
+  "short_name": "EHC Installer",
   "icons": [
     {
       "src": "/favicon/web-app-manifest-192x192.png",
