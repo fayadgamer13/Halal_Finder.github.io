@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+
 document.addEventListener('DOMContentLoaded', () => {
     const downloadBtn = document.getElementById('downloadwindowsBtn');
 
